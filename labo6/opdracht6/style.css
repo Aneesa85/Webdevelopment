@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+h1{
+    font-size: 3em;
+}
+.checklist{
+    list-style-image: url("../opdracht6/image/unchecked.png");
+}
+.checked{
+    list-style-image: url("../opdracht6/image/checked.png");
+}
+li{
+    padding: 10px;
+    font-size: 2em;
+}
